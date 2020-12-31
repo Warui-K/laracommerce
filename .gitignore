@@ -1,5 +1,9 @@
+.idea
 /node_modules
 /public/hot
+/public/backend
+/public/frontend
+/public/uploads
 /public/storage
 /storage/*.key
 /vendor
